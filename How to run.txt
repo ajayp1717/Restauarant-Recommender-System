@@ -1,0 +1,2 @@
+1.Open the ../Webdev/Hello directory in terminal.
+2.fire this command : py manage.py runserver.
